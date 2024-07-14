@@ -16,3 +16,9 @@ Test https://github.com/AurRazex/IntroToAutotest/tree/8f54a7a7c05f7a49884abd0f55
 Main https://github.com/AurRazex/IntroToAutotest/tree/8f54a7a7c05f7a49884abd0f55ed42ede1a424eb/src/main/java/Lesson3
 
 Test https://github.com/AurRazex/IntroToAutotest/tree/8f54a7a7c05f7a49884abd0f55ed42ede1a424eb/src/test/java/Lesson3
+
+Урок 8. Семинар: Применение SQL в автоматизации тестирования
+
+Main https://github.com/AurRazex/IntroToAutotest/tree/3c316ae6d22b93a2b704298c49b1c3d713110542/AutoTestLesson4/src/main/java/Lesson4
+
+Test https://github.com/AurRazex/IntroToAutotest/tree/3c316ae6d22b93a2b704298c49b1c3d713110542/AutoTestLesson4/src/test/java/Lesson4
