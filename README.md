@@ -22,3 +22,15 @@ Test https://github.com/AurRazex/IntroToAutotest/tree/8f54a7a7c05f7a49884abd0f55
 Main https://github.com/AurRazex/IntroToAutotest/tree/3c316ae6d22b93a2b704298c49b1c3d713110542/AutoTestLesson4/src/main/java/Lesson4
 
 Test https://github.com/AurRazex/IntroToAutotest/tree/3c316ae6d22b93a2b704298c49b1c3d713110542/AutoTestLesson4/src/test/java/Lesson4
+
+Урок 10. Семинар: Моки и логи
+
+Main https://github.com/AurRazex/IntroToAutotest/tree/9c5bf870a9554644965aedc4de89897a9acc7ccc/AutoTestLesson5/src/main/java/Lesson6
+
+Test https://github.com/AurRazex/IntroToAutotest/tree/9c5bf870a9554644965aedc4de89897a9acc7ccc/AutoTestLesson5/src/test/java/Lesson6
+
+Урок 12. Семинар: CI/отчеты
+
+Main https://github.com/AurRazex/IntroToAutotest/tree/9c5bf870a9554644965aedc4de89897a9acc7ccc/AutoTestLesson6/src/main/java/Lesson6
+
+Test https://github.com/AurRazex/IntroToAutotest/tree/9c5bf870a9554644965aedc4de89897a9acc7ccc/AutoTestLesson6/src/test/java/Lesson6
